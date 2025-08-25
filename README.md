@@ -1,3 +1,4 @@
+    Visit www.drugela.com
 Quality Downloader 1.0
 Quality Downloader je program za preuzimanje YouTube video zapisa visoke rezolucije sa lakoćom, na Windows računaru. 
 Aplikacija automatski povezuje video i audio zapise u jedan fajl, sa modernim i jednostavnim korisničkim interfejsom.
